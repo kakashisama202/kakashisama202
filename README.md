@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kakashisama202 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python laung
+- 👀 I’m interested in Mobile Appliction Development
+- 🌱 I’m currently learning Dart laung and Flutter FrameWork
 - 💞️ I’m looking to collaborate on ...
 - 📫 My Insta @a_iqi202 
 
